@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">كوفيد-١٩</string>
+    <string name="total_cases">اجمالي الحالات</string>
+    <string name="recovered">اجمالي حالات الشفاء</string>
+    <string name="total_death">اجمالي الوفيات</string>
+    <string name="see_all_countries">انظر دول العالم</string>
+    <string name="search_for_country">ابحث عن دوله (بالانجليزيه)...</string>
+    <string name="total_cases_lbl">"اجمالي الحالات : "</string>
+    <string name="today_s_cases_lbl">"حالات اليوم : "</string>
+    <string name="total_recovered_lbl">"اجمالي حالات الشفاء : "</string>
+    <string name="today_s_recovered_lbl">"حالات الشفاء اليوم : "</string>
+    <string name="total_death_lbl">"اجمالي الوفيات : "</string>
+    <string name="today_death_lbl">"وفيات اليوم : "</string>
+    <string name="country_name">اسم الدوله</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="recovered">Total Recovered</string>
+    <string name="total_death">Total Death</string>
+    <string name="see_all_countries">See All Countries</string>
+    <string name="search_for_country">Search For Country (In English)...</string>
+    <string name="total_cases_lbl">Total Cases :</string>
+    <string name="today_s_cases_lbl">Today Cases :</string>
+    <string name="total_recovered_lbl">Total Recovered :</string>
+    <string name="today_s_recovered_lbl">Today Recovered :</string>
+    <string name="total_death_lbl">Total Death :</string>
+    <string name="today_death_lbl">Today Death :</string>
+    <string name="country_name">Country Name</string>
+</resources>
